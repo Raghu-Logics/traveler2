@@ -903,6 +903,7 @@ overflow-x: hidden;
 .overview4 .container {
     max-width: 600px;
     margin: auto;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
   .overview4 h2 {
     margin-bottom: 15px;
