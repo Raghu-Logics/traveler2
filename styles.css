@@ -904,6 +904,7 @@ overflow-x: hidden;
     max-width: 600px;
     margin: auto;
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   padding: 20px;
   }
   .overview4 h2 {
     margin-bottom: 15px;
