@@ -319,6 +319,14 @@ overflow-x: hidden;
   .menu-button{
   display: none;
   }
+@media(max-width: 1536px){
+    .secondmenu1{
+      display: none;
+    }
+    .firstmen{
+      display: none;
+    }
+  }
   @media(max-width: 1528px){
     .firstmen{
       display:none;
